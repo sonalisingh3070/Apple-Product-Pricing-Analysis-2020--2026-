@@ -1,29 +1,29 @@
-## Apple Product Pricing Dashboard | Power BI
-### Project Overview
+# Apple Product Pricing Dashboard | Power BI
+## Project Overview
 This project analyzes Apple product pricing data from 2020–2026 using Power BI. The dashboard provides insights into product pricing trends, discounts, customer ratings, reviews, and inventory status across different Apple product categories and e-commerce platforms.
 The objective is to help understand pricing strategies, identify products with the highest discounts and price drops, and compare launch prices with current market prices through an interactive dashboard.
-### Objectives
+## Objectives
 - Analyze Apple product pricing trends over time.
 - Compare launch prices with current selling prices.
 - Identify products offering the highest discounts.
 - Monitor product availability based on stock status.
 - Compare product categories using pricing, ratings, and reviews.
 - Provide interactive filtering for better analysis.
-### Dashboard Features
-# KPI Cards
--Average Rating
--Total Reviews
--Average Selling Price
--Total Products
--Average Discount
--Products In Stock
-# Interactive Filters
+## Dashboard Features
+### KPI Cards
+- Average Rating
+- Total Reviews
+- Average Selling Price
+- Total Products
+- Average Discount
+- Products In Stock
+### Interactive Filters
 - Year
 - Platform (Amazon / Flipkart)
 - Product Category
 - Stock Status
 - Sale Event
-# Visualizations
+### Visualizations
 - Price Trend Over Time
 - Average Rating by Category
 - Average Discount by Category
